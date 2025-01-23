@@ -1,4 +1,4 @@
-![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=200&section=header&text=Wubba%Lubba%Dub%Dub&render&fontSize=50)
+![header](https://capsule-render.vercel.app/api?type=waving&animation=fadeIn&color=gradient&height=200&section=header&trender&fontSize=50)
 
 
 <p align="center">
