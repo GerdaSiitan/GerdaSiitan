@@ -15,7 +15,7 @@
 <h2> 👨🏻‍💻 &nbsp;A Little Bit About Me and My Interests</h2>
 
 ```yaml
-name: Gerda Siitan
+name: Gerda
 located_in: Tallinn, Estonia
 current_job: Intern
 education:
